@@ -2,7 +2,7 @@
 <nsJavaModule:JavaModule xmlns:nsJavaModule="http://xcp.emc.com/javamodule" 
 	urn="urn:dev:com.emc.xcp.artifact.javamodule.category:Artifacts/Java Modules/xcp2_PDFFormReader.javamodule" 
 	categoryId="com.emc.xcp.artifact.javamodule.category" name="xcp2_PDFFormReader.javamodule" label="PDF Form Reader" 
-	implementationClass="com.aerow.xcp.PdfFormReaderXcp">
+	implementationClass="com.emc.xcp.xcelerator.pdfformreader.PdfFormReaderXcp">
 	
   <implementationJars contentPath="content/modules/xcp2_PDFFormReader.jar"/>
   <implementationJars contentPath="content/modules/iText-5.0.5.jar"/>
